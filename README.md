@@ -1,4 +1,6 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75B11&background=2A41FF00&width=435&lines=Hello+World%2C+Im+Rayan!)](https://git.io/typing-svg)
+
+
 👋 Hi there! I'm Rayan Ahsan, an aspiring Software Engineer passionate about crafting impactful, scalable, and user-focused solutions.<br><br>🔭 What I’m Working On<br>-Building full-stack web applications.<br>-Developing IoT systems and integrating AI-driven solutions for real-world accessibility challenges.<br>-Exploring the intersection of AI, Web Development, and NLP technologies.<br><br>💡 What I’m Passionate About<br>Artificial Intelligence: Leveraging machine learning and LLMs to solve complex problems.<br>Web Development: Creating interactive and responsive applications with tools like React, Next.js, and TypeScript.<br>IoT Innovations: Connecting devices to simplify daily life and improve accessibility.<br><br><br>🌱 Currently Learning<br>- I have seen some visual masterpieces with threeJS, which has motivated me to start developing some cool 3D websites with it<br>- I am currently learning Docker to easily package and deploy my applications <br><br>📈 My Goal<br>To contribute to transformative technologies that tackle real-world challenges and create meaningful impact.<br><br>Feel free to explore my repositories and connect with me! Let's build something amazing together. 🚀<br><br><br>
 
 
